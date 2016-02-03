@@ -3,9 +3,12 @@
 
 class SciCalc {
   public:
-    SciCalc(const inputParameters &myInput);
+    SciCalc(const inputParameters *myInput);
     ~SciCalc();
   private:
+
+
+
 
 };
 

@@ -1,10 +1,15 @@
 #include <vector>
+#include <string>
 
 #include "SciCodeIO.hpp"
 #include "SciCalc.hpp"
 
 // Constructor.
-SciCalc::SciCalc(const inputParameters &myInput) {
+SciCalc::SciCalc(const inputParameters *myInput) {
+
+
+
+
 
 }
 

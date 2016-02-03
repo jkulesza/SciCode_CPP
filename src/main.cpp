@@ -19,14 +19,14 @@ int main(int argc, char* argv[]) {
 
   // Perform calculation.
 
-
+/*
   // Output results.
   cout << myInput.title << endl;
 
   for(int i = 0; i < myInput.xmesh.size(); i++) {
     cout << myInput.xmesh[i] << endl;
   }
-
+*/
   return(0);
 
 }
