@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<input>
+  <scalars>
+    <title>My Title</title>
+    <author>My Author</author>
+    <genre>My Genre</genre>
+    <price>My Price</price>
+  </scalars>
+  <arrays>
+    <xmesh>
+      0.0 1.0 2.0 3.0 4.2
+    </xmesh>
+    <ymesh>
+      0.0 1.0 2.0 3.0 4.0
+    </ymesh>
+    <zmesh>
+      0.0 1.0 2.0 3.0 4.0
+    </zmesh>
+  </arrays>
+</input>
