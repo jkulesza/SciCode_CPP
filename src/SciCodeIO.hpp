@@ -15,8 +15,12 @@ class inputParameters {
     std::vector<double> xmesh;  
     std::vector<double> ymesh;
     std::vector<double> zmesh;
-
   private:
+
+
 };
+
+
+
 
 #endif

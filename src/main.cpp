@@ -17,6 +17,10 @@ int main(int argc, char* argv[]) {
   // Get input file name from command line.
   inputParameters myInput(argv[1]);
 
+  // Perform calculation.
+
+
+  // Output results.
   cout << myInput.title << endl;
 
   for(int i = 0; i < myInput.xmesh.size(); i++) {
